@@ -35,7 +35,12 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": [Large Language Model]
+      "keywords": [
+        "Large Language Model",
+        "Deep Learning Architecture",
+        "Monetary Policy",
+        "Macroeconomic"
+      ]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
