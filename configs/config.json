@@ -35,7 +35,7 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": [LLM in finance]
+      "keywords": [Large Language Model]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
