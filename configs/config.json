@@ -35,7 +35,7 @@
   "keywords": {
     "primary_keywords": {
       "weight": 1.0,
-      "keywords": []
+      "keywords": [LLM in finance]
     },
     "enable_reference_extraction": true,
     "reference_keywords_config": {
@@ -129,7 +129,7 @@
     "top_n": 5,
     "channels": {
       "email": {
-        "enabled": false
+        "enabled": true
       },
       "wechat_work": {
         "enabled": true
@@ -178,7 +178,7 @@
   // PDF Parser Configuration
   // ==================================================
   "pdf_parser": {
-    "mode": "mineru",
+    "mode": "simple",
     "mineru_model_version": "pipeline",
     "poll_interval": 3,
     "poll_timeout": 300
